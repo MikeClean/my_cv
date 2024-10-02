@@ -1,13 +1,16 @@
 # **Mikhail Chistov**
 
+- **Email:** chistovmike@gmail.com
+- **LinkedIn:** [linkedin.com/in/mikhailchistov](https://www.linkedin.com/in/mikhail-chistov-bb0669218/)
+- **Telegram:** [@mclnt](https://t.me/mikcln)
+
 # **System Administrator, DevOps**
 
 With over 8 years of experience in system administration, I specialize in supporting server and network infrastructures. My expertise includes process automation, virtualization setup, system monitoring, and troubleshooting. I am constantly seeking to acquire new knowledge and technologies to enhance the efficiency and quality of IT infrastructure management.
 
 # My Stack
 
-**Skills**
-
+```
 - **Operating Systems**: Linux (Ubuntu, CentOS, Debian), Windows Server (2012, 2016, 2019), macOS
 - **DevOps Tools**: Docker, Kubernetes, Jenkins, Git, Ansible, Terraform
 - **CI/CD**: GitHub Actions, GitLab CI/CD, Jenkins
@@ -23,7 +26,7 @@ With over 8 years of experience in system administration, I specialize in suppor
 - **Security**: SSH, SSL/TLS, Microsoft Active Directory (Security Policies, Group Policies)
 - **Networking**: TCP/IP, DNS, DHCP, VPN (OpenVPN, Wireguard, IPSec), Firewalls (iptables, UFW), MikroTik, Cisco Routers
 - **Microcontrollers & IoT**: Arduino, ESP8266, Raspberry Pi, Orange Pi
-
+```
 ## **Work Experience:**
 
 ### PTF Lab
