@@ -23,3 +23,21 @@ With over 8 years of experience in system administration, I specialize in suppor
 - **Security**: SSH, SSL/TLS, Microsoft Active Directory (Security Policies, Group Policies)
 - **Networking**: TCP/IP, DNS, DHCP, VPN (OpenVPN, Wireguard, IPSec), Firewalls (iptables, UFW), MikroTik, Cisco Routers
 - **Microcontrollers & IoT**: Arduino, ESP8266, Raspberry Pi, Orange Pi
+
+## **Work Experience:**
+
+### PTF Lab
+
+12/2022 - 04/2024
+System Administrator, DevOps
+
+### Runexis
+
+Moscow, Moscow City, Russia
+07/2021 - 10/2022
+System Administrator
+
+### S7 Airlines
+
+07/2017 - 09/2020
+IT Specialist
