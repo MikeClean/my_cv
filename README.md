@@ -10,7 +10,7 @@ With over 8 years of experience in system administration, I specialize in suppor
 
 # My Stack
 
-```
+```yml
 Operating Systems:
 Linux (Ubuntu, CentOS, Debian)
 Windows Server (2012, 2016, 2019)
