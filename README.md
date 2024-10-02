@@ -1,3 +1,10 @@
+# **Mikhail Chistov**
+
+# **System Administrator, DevOps**
+
+With over 8 years of experience in system administration, I specialize in supporting server and network infrastructures. My expertise includes process automation, virtualization setup, system monitoring, and troubleshooting. I am constantly seeking to acquire new knowledge and technologies to enhance the efficiency and quality of IT infrastructure management.
+
+
 **My stack**
 
 - **Operating Systems**:
