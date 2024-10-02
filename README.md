@@ -13,91 +13,91 @@ With over 8 years of experience in system administration, I specialize in suppor
 
 ```yml
 Operating Systems:
-Linux (Ubuntu, CentOS, Debian)
-Windows Server (2012, 2016, 2019)
-macOS
+  Linux (Ubuntu, CentOS, Debian)
+  Windows Server (2012, 2016, 2019)
+  macOS
 
 DevOps Tools:
-Docker
-Kubernetes
-Jenkins
-Git
-Ansible
-Terraform
+  Docker
+  Kubernetes
+  Jenkins
+  Git
+  Ansible
+  Terraform
 
 Programming and Scripting Languages:
-Python
-Bash
-PowerShell
+  Python
+  Bash
+  PowerShell
 
 Networking Technologies:
-TCP/IP
-DNS
-DHCP
-VPN (OpenVPN, Wireguard, IPSec)
-Firewall (iptables, UFW)
-MikroTik Routers
-Cisco Routers
+  TCP/IP
+  DNS
+  DHCP
+  VPN (OpenVPN, Wireguard, IPSec)
+  Firewall (iptables, UFW)
+  MikroTik Routers
+  Cisco Routers
 
 Monitoring and Logging:
-Prometheus
-Grafana
-Zabbix
+  Prometheus
+  Grafana
+  Zabbix
 
 Data Storage and Management:
-Amazon S3
-Google Cloud Storage
-NFS
-SMB/CIFS
+  Amazon S3
+  Google Cloud Storage
+  NFS
+  SMB/CIFS
 
 Cloud Platforms:
-Amazon Web Services (AWS)
-Microsoft Azure
-Google Cloud Platform (GCP)
+  Amazon Web Services (AWS)
+  Microsoft Azure
+  Google Cloud Platform (GCP)
 
 Containerization and Virtualization:
-VMware
-Hyper-V
-ProxMox
-VirtualBox
-KVM
+  VMware
+  Hyper-V
+  ProxMox
+  VirtualBox
+  KVM
 
 Security:
-SSH
-SSL/TLS
-Microsoft Active Directory (Security Policies, Group Policies)
+  SSH
+  SSL/TLS
+  Microsoft Active Directory (Security Policies, Group Policies)
 
 Backup Solutions:
-Veeam Backup & Replication
-Acronis True Image
-Rsync
+  Veeam Backup & Replication
+  Acronis True Image
+  Rsync
 
 Database Management Systems (DBMS):
-MySQL
-PostgreSQL
-MongoDB
-MariaDB
-SQLite
-Microsoft SQL Server
+  MySQL
+  PostgreSQL
+  MongoDB
+  MariaDB
+  SQLite
+  Microsoft SQL Server
 
 Configuration Management:
-Ansible
-SaltStack
+  Ansible
+  SaltStack
 
 CI/CD Tools:
-GitHub Actions
-GitLab CI/CD
-Jenkins
+  GitHub Actions
+  GitLab CI/CD
+  Jenkins
 
 Version Control Systems:
-Git
-GitLab
+  Git
+  GitLab
 
 Microcontrollers and IoT Devices:
-Arduino
-ESP8266
-Raspberry Pi
-Orange Pi
+  Arduino
+  ESP8266
+  Raspberry Pi
+  Orange Pi
 ```
 ## **Work Experience:**
 
