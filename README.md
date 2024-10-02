@@ -37,7 +37,7 @@ Networking Technologies:
   VPN (OpenVPN, Wireguard, IPSec)
   Firewall (iptables, UFW)
   MikroTik Routers
-  Cisco Routers
+  Cisco
 
 Monitoring and Logging:
   Prometheus
@@ -51,9 +51,9 @@ Data Storage and Management:
   SMB/CIFS
 
 Cloud Platforms:
-  Amazon Web Services (AWS)
+  Amazon Web Services
   Microsoft Azure
-  Google Cloud Platform (GCP)
+  Google Cloud Platform
 
 Containerization and Virtualization:
   VMware
