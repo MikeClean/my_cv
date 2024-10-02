@@ -103,15 +103,14 @@ Orange Pi
 ### PTF Lab
 
 12/2022 - 04/2024
-System Administrator, DevOps
+System Administrator, DevOps, Tbilisi
 
 ### Runexis
 
-Moscow, Moscow City, Russia
 07/2021 - 10/2022
-System Administrator
+System Administrator, Moscow
 
 ### S7 Airlines
 
 07/2017 - 09/2020
-IT Specialist
+IT Specialist, Domodedovo Airport
