@@ -103,15 +103,32 @@ Microcontrollers and IoT Devices:
 
 ### PTF Lab
 
+**Tbilisi
 12/2022 - 04/2024
-System Administrator, DevOps, Tbilisi
+System Administrator, DevOps**
+
+• Built and maintained a GPU server infrastructure to meet company needs
+• Tested various server configurations to optimize performance and fault tolerance
+• Oversaw infrastructure deployment for field events featuring real-time 3D advertising
 
 ### Runexis
 
+**Moscow
 07/2021 - 10/2022
-System Administrator, Moscow
+System Administrator**
+
+• Provided comprehensive office IT support
+• Maintained, monitored, and replaced server components in data centers (approximately 50 units)
+• Built and configured servers
+• Set up network equipment (Cisco, D-Link, MikroTik)
+• Administered, configured, troubleshot, and monitored infrastructure
 
 ### S7 Airlines
 
+**Domodedovo airport, Moscow
 07/2017 - 09/2020
-IT Specialist, Domodedovo Airport
+IT Specialist**
+
+• Implemented an LMS system for training flight attendants and pilots
+• Automated the issuance of training completion certificates
+• Contributed to the implementation of an ERP system at the training center
