@@ -56,6 +56,7 @@ Cloud Platforms:
   Google Cloud Platform
 
 Containerization and Virtualization:
+  Vagrant
   VMware
   Hyper-V
   ProxMox
@@ -107,7 +108,7 @@ Microcontrollers and IoT Devices:
 12/2022 - 04/2024
 System Administrator, DevOps**
 
-• Built and maintained a GPU server infrastructure to meet company needs
+• Built and maintained a GPU ML server-cluster infrastructure to meet company needs
 • Tested various server configurations to optimize performance and fault tolerance
 • Oversaw infrastructure deployment for field events featuring real-time 3D advertising
 
